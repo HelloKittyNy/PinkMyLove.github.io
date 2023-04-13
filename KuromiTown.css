@@ -1,0 +1,42 @@
+.mainul{
+    justify-content: space-between;
+    padding:0;
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;height:1500px
+    }
+    
+    .mainli{transition:1s;
+    margin-top:20px;
+    
+    width:19%;
+    height:400px;
+    
+    
+    }
+    .mainli:hover{
+    box-shadow:2px 2px 5px 5px pink;
+    cursor: url("photo_2023-03-30_23-04-43.jpg") 2 2,auto;
+    }
+    .mainul>.mainli>img{border-radius:10%;
+    height:400px;
+    width:100%;}
+    input.form-control{width: 30%;
+    height: 30%}
+    h1{font-family: cursive;
+    text-align:center;
+    color:pink;
+    ;
+    }
+    h2{
+    color:pink;
+    background:grey
+    
+    }
+    h6{
+    color:pink;
+    background:grey
+    
+    }
+    body{
+    background:url("https://i.pinimg.com/564x/83/98/7b/83987b46134b27d6c30fb00d83dc063f.jpg")}
